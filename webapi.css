@@ -1,0 +1,50 @@
+body{
+    background-image: url('https://wallpapercave.com/wp/wp2809175.jpg');
+    background-position-y: 1%;
+    color:white;
+    font-weight: 700;
+    background-size: cover;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    margin-top: 19%;
+    border: 2px solid rgb(9, 184, 6);
+    margin-bottom: 10%;
+    height: 100vh;
+}
+
+p {
+    border-bottom: 2.5px solid rgb(255 181 0);
+     display: block;
+
+}
+
+.surah-p {
+    width: 60%;
+    margin: 50vh;
+    margin-left: 0%;
+    height: 70vh;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+
+
+.surahdiv {
+    color:white;
+    text-align: center;
+}
+
+.surahh1 {
+    /* display: flex;
+    justify-content: center;
+    border-bottom: 4px solid rgb(81, 55, 55);
+    color: orange;
+    font-size: 2.6rem;
+    margin-bottom: 2.5%;
+    width: 30%;
+    line-height: 2.2; */
+    /* text-align: center; */
+}
